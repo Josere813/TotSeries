@@ -16,6 +16,6 @@ public class JoseDaniCarlos_TotSeries {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    }
+    }heyheyhey
     
 }
